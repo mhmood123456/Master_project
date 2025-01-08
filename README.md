@@ -1,4 +1,4 @@
-This repository contains three key files for a machine learning project focused on classification and segmentation tasks. The code is executed in Google Colab for easy execution and testing. Here's a brief overview of the files:
+This repository contains three key files for my master thesis focused on classification and segmentation tasks. The code is executed in Google Colab for easy execution and testing. Here's a brief overview of the files:
 <br><br>
 Dataset Download: Download the required dataset from Kaggle. Ensure you have your Kaggle API credentials set up to fetch the dataset directly.<br>
 Classification Code: This script focuses on performing classification tasks on the dataset. <br>
